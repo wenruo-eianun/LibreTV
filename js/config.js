@@ -13,7 +13,7 @@ const PASSWORD_CONFIG = {
 // 网站信息配置
 const SITE_CONFIG = {
     name: 'Eianun TV',
-    url: 'https://libretv.is-an.org',
+    url: 'https://video.020915.xyz/',
     description: '文弱免费在线视频搜索与观看平台',
     logo: 'https://qkwen.serv00.net/i/2025/05/09/163764.webp',
     version: '1.0.3'
